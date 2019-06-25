@@ -7,7 +7,7 @@ public class Primenumbers {
 		Scanner sc = new Scanner(System.in);
 		len = sc.nextInt();
 		
-	//	len = sc.nextInt();
+
 
 		for (int n = 1; n < len; n++) {
 
